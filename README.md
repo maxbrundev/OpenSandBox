@@ -15,7 +15,9 @@ OpenSandBox also ensure the integrity of a low level usage of the AmberEngine AP
 - GLFW Windowing wrapping
 - GLFW Device wrapping
 - OpenGL Driver wrapping
+- Inputs Manager
 - Renderer
+- Camera
 - Camera Controller
 - Model Loader
 - Shader Loader
